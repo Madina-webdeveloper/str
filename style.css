@@ -1,0 +1,13 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  main {
+    height: calc(100vh - 56px - 160px);
+  }  
+
+  button{
+    margin: 10px;
+  }
